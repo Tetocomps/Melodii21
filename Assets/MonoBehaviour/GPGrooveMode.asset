@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: GPGrooveMode
+  m_EditorClassIdentifier:
+  mSourceClip: {fileID: 8300000, guid: f4beccc4e106ecb45a7f4dbef2664a4e, type: 3}
+  mAudioFilePath:
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 8bca36bde5be44f45b9ee6aab09facda, type: 2}
+  - {fileID: 11400000, guid: 15fb18697fe45ac41a0fdc810b97db03, type: 2}
+  - {fileID: 11400000, guid: e1e08d0c37646f341a7328b57363d9fc, type: 2}
+  - {fileID: 11400000, guid: 9bad74c5a603e294992b88df4bed6ba0, type: 2}
+  - {fileID: 11400000, guid: db4afb7431ecdd2429ee97a13a467e89, type: 2}

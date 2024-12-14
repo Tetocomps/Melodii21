@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: YButt
+  m_EditorClassIdentifier:
+  mEventID: YButt
+  mEventList:
+  - mStartSample: 1653622
+    mEndSample: 1653622
+  - mStartSample: 1918222
+    mEndSample: 1918222
+  - mStartSample: 2193847
+    mEndSample: 2193847
+  - mStartSample: 2469472
+    mEndSample: 2469472
+  - mStartSample: 2513572
+    mEndSample: 2513572
+  - mStartSample: 3902722
+    mEndSample: 3902722
+  - mStartSample: 3946822
+    mEndSample: 3946822
+  - mStartSample: 4281247
+    mEndSample: 4281247
+  - mStartSample: 4288597
+    mEndSample: 4288597
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: []
+  _ColorPayloads: []
+  _ColorPayloadIdxs: []
+  _CurvePayloads: []
+  _CurvePayloadIdxs: []
+  _FloatPayloads: []
+  _FloatPayloadIdxs: []
+  _GradientPayloads: []
+  _GradientPayloadIdxs: []
+  _IntPayloads: []
+  _IntPayloadIdxs: []
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: []
+  _TextPayloads: []
+  _TextPayloadIdxs: []

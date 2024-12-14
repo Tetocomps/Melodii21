@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: Extra
+  m_EditorClassIdentifier:
+  mEventID: Extra
+  mEventList:
+  - mStartSample: 396900
+    mEndSample: 396900
+  - mStartSample: 407925
+    mEndSample: 407925
+  - mStartSample: 441000
+    mEndSample: 441000
+  - mStartSample: 573300
+    mEndSample: 573300
+  - mStartSample: 584325
+    mEndSample: 584325
+  - mStartSample: 617400
+    mEndSample: 617400
+  - mStartSample: 749700
+    mEndSample: 749700
+  - mStartSample: 760725
+    mEndSample: 760725
+  - mStartSample: 793800
+    mEndSample: 793800
+  - mStartSample: 926100
+    mEndSample: 926100
+  - mStartSample: 937125
+    mEndSample: 937125
+  - mStartSample: 970200
+    mEndSample: 970200
+  - mStartSample: 1102500
+    mEndSample: 1102500
+  - mStartSample: 1113525
+    mEndSample: 1113525
+  - mStartSample: 1146600
+    mEndSample: 1146600
+  - mStartSample: 1565550
+    mEndSample: 1565550
+  - mStartSample: 1587600
+    mEndSample: 1587600
+  - mStartSample: 2160900
+    mEndSample: 2160900
+  - mStartSample: 2171925
+    mEndSample: 2171925
+  - mStartSample: 2205000
+    mEndSample: 2205000
+  - mStartSample: 2337300
+    mEndSample: 2337300
+  - mStartSample: 2348325
+    mEndSample: 2348325
+  - mStartSample: 2381400
+    mEndSample: 2381400
+  - mStartSample: 2513700
+    mEndSample: 2513700
+  - mStartSample: 2524725
+    mEndSample: 2524725
+  - mStartSample: 2557800
+    mEndSample: 2557800
+  - mStartSample: 2690100
+    mEndSample: 2690100
+  - mStartSample: 2701125
+    mEndSample: 2701125
+  - mStartSample: 2734200
+    mEndSample: 2734200
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: []
+  _ColorPayloads: []
+  _ColorPayloadIdxs: []
+  _CurvePayloads: []
+  _CurvePayloadIdxs: []
+  _FloatPayloads: []
+  _FloatPayloadIdxs: []
+  _GradientPayloads: []
+  _GradientPayloadIdxs: []
+  _IntPayloads: []
+  _IntPayloadIdxs: []
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: []
+  _TextPayloads: []
+  _TextPayloadIdxs: []

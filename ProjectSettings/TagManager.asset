@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - beat
+  - StarNote
+  - backbeat
+  - NoteClone
+  - NPC
+  - PinkGlow
+  - BlueGlow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Characters
+  - Water
+  - UI
+  - Extra
+  - 
+  - PostProcEff
+  - Background
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 450005505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI2
+    uniqueID: 995640743
+    locked: 0

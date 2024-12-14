@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: TSBeat
+  m_EditorClassIdentifier:
+  mEventID: TSBeat
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 24054
+    mEndSample: 24054
+  - mStartSample: 48109
+    mEndSample: 48109
+  - mStartSample: 72163
+    mEndSample: 72163
+  - mStartSample: 96218
+    mEndSample: 96218
+  - mStartSample: 120272
+    mEndSample: 120272
+  - mStartSample: 144327
+    mEndSample: 144327
+  - mStartSample: 168381
+    mEndSample: 168381
+  - mStartSample: 192436
+    mEndSample: 192436
+  - mStartSample: 216490
+    mEndSample: 216490
+  - mStartSample: 240545
+    mEndSample: 240545
+  - mStartSample: 264600
+    mEndSample: 264600
+  - mStartSample: 288654
+    mEndSample: 288654
+  - mStartSample: 312709
+    mEndSample: 312709
+  - mStartSample: 336763
+    mEndSample: 336763
+  - mStartSample: 360818
+    mEndSample: 360818
+  - mStartSample: 384872
+    mEndSample: 384872
+  - mStartSample: 408927
+    mEndSample: 408927
+  - mStartSample: 432981
+    mEndSample: 432981
+  - mStartSample: 457036
+    mEndSample: 457036
+  - mStartSample: 481090
+    mEndSample: 481090
+  - mStartSample: 505145
+    mEndSample: 505145
+  - mStartSample: 529200
+    mEndSample: 529200
+  - mStartSample: 553254
+    mEndSample: 553254
+  - mStartSample: 577309
+    mEndSample: 577309
+  - mStartSample: 601363
+    mEndSample: 601363
+  - mStartSample: 625418
+    mEndSample: 625418
+  - mStartSample: 649472
+    mEndSample: 649472
+  - mStartSample: 673527
+    mEndSample: 673527
+  - mStartSample: 697581
+    mEndSample: 697581
+  - mStartSample: 721636
+    mEndSample: 721636
+  - mStartSample: 745690
+    mEndSample: 745690
+  - mStartSample: 769745
+    mEndSample: 769745
+  - mStartSample: 793800
+    mEndSample: 793800
+  - mStartSample: 817854
+    mEndSample: 817854
+  - mStartSample: 841909
+    mEndSample: 841909
+  - mStartSample: 865963
+    mEndSample: 865963
+  - mStartSample: 890018
+    mEndSample: 890018
+  - mStartSample: 914072
+    mEndSample: 914072
+  - mStartSample: 938127
+    mEndSample: 938127
+  - mStartSample: 962181
+    mEndSample: 962181
+  - mStartSample: 986236
+    mEndSample: 986236
+  - mStartSample: 1010290
+    mEndSample: 1010290
+  - mStartSample: 1034345
+    mEndSample: 1034345
+  - mStartSample: 1058400
+    mEndSample: 1058400
+  - mStartSample: 1082454
+    mEndSample: 1082454
+  - mStartSample: 1106509
+    mEndSample: 1106509
+  - mStartSample: 1130563
+    mEndSample: 1130563
+  - mStartSample: 1154618
+    mEndSample: 1154618
+  - mStartSample: 1178672
+    mEndSample: 1178672
+  - mStartSample: 1202727
+    mEndSample: 1202727
+  - mStartSample: 1226781
+    mEndSample: 1226781
+  - mStartSample: 1250836
+    mEndSample: 1250836
+  - mStartSample: 1274890
+    mEndSample: 1274890
+  - mStartSample: 1298945
+    mEndSample: 1298945
+  - mStartSample: 1323000
+    mEndSample: 1323000
+  - mStartSample: 1347054
+    mEndSample: 1347054
+  - mStartSample: 1371109
+    mEndSample: 1371109
+  - mStartSample: 1395163
+    mEndSample: 1395163
+  - mStartSample: 1419218
+    mEndSample: 1419218
+  - mStartSample: 1443272
+    mEndSample: 1443272
+  - mStartSample: 1467327
+    mEndSample: 1467327
+  - mStartSample: 1491381
+    mEndSample: 1491381
+  - mStartSample: 1515436
+    mEndSample: 1515436
+  - mStartSample: 1539490
+    mEndSample: 1539490
+  - mStartSample: 1563545
+    mEndSample: 1563545
+  - mStartSample: 1587600
+    mEndSample: 1587600
+  - mStartSample: 1611654
+    mEndSample: 1611654
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: []
+  _ColorPayloads: []
+  _ColorPayloadIdxs: []
+  _CurvePayloads: []
+  _CurvePayloadIdxs: []
+  _FloatPayloads: []
+  _FloatPayloadIdxs: []
+  _GradientPayloads: []
+  _GradientPayloadIdxs: []
+  _IntPayloads: []
+  _IntPayloadIdxs: []
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: []
+  _TextPayloads: []
+  _TextPayloadIdxs: []

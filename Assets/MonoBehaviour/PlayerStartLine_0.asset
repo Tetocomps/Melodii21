@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: PlayerStartLine_0
+  m_EditorClassIdentifier: 
+  mEventID: PlayerStartLine
+  mEventList:
+  - mStartSample: 808500
+    mEndSample: 808500
+  - mStartSample: 1043700
+    mEndSample: 1043700
+  - mStartSample: 1278900
+    mEndSample: 1278900
+  - mStartSample: 1514100
+    mEndSample: 1514100
+  - mStartSample: 1749300
+    mEndSample: 1749300
+  - mStartSample: 1866900
+    mEndSample: 1866900
+  - mStartSample: 1984500
+    mEndSample: 1984500
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

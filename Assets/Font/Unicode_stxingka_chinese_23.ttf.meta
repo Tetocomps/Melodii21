@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 1732965c63ac64444b69170bfe305cee
+timeCreated: 1733689810
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 23
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - STXingkai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92c805505a1f5e547a77852134eeb445, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

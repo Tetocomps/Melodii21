@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: UpP
+  m_EditorClassIdentifier:
+  mEventID: UpP
+  mEventList:
+  - mStartSample: 1144962
+    mEndSample: 1148638
+  - mStartSample: 1332387
+    mEndSample: 1335922
+  - mStartSample: 1497762
+    mEndSample: 1501163
+  - mStartSample: 1508787
+    mEndSample: 1512576
+  - mStartSample: 1530837
+    mEndSample: 1534493
+  - mStartSample: 1673690
+    mEndSample: 1677596
+  - mStartSample: 1783164
+    mEndSample: 1788876
+  - mStartSample: 1793925
+    mEndSample: 1799840
+  - mStartSample: 4905997
+    mEndSample: 4908991
+  - mStartSample: 4928047
+    mEndSample: 4931041
+  - mStartSample: 5027272
+    mEndSample: 5030266
+  - mStartSample: 5214697
+    mEndSample: 5217691
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: []
+  _ColorPayloads: []
+  _ColorPayloadIdxs: []
+  _CurvePayloads: []
+  _CurvePayloadIdxs: []
+  _FloatPayloads: []
+  _FloatPayloadIdxs: []
+  _GradientPayloads: []
+  _GradientPayloadIdxs: []
+  _IntPayloads: []
+  _IntPayloadIdxs: []
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: []
+  _TextPayloads: []
+  _TextPayloadIdxs: []
